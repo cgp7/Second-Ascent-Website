@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "second-ascent", "runtimeExecutable": "node", "runtimeArgs": ["serve.mjs"], "port": 4321 }
+  ]
+}

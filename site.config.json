@@ -1,0 +1,32 @@
+{
+  "_readme": "Edit this file to change business details site-wide. Empty strings are hidden on the site. Fields under 'owner_must_confirm' feed the legal pages: they become promises to customers, so confirm each one before launch. See LAUNCH-CHECKLIST.md.",
+
+  "launched": false,
+  "url": "https://second-ascent.netlify.app",
+
+  "business": {
+    "brandName": "Second Ascent",
+    "legalName": "",
+    "entityType": "",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "stateCode": "UT",
+    "mailingAddress": "",
+    "email": "",
+    "instagram": "",
+    "tagline": "Utah's very own",
+    "descriptor": "Upcycled apparel"
+  },
+
+  "owner_must_confirm": {
+    "returnWindowDays": 14,
+    "refundProcessingDays": 10,
+    "shipWithinBusinessDays": 5,
+    "commissionDepositPercent": 50,
+    "commissionReplyBusinessDays": 3,
+    "commissionRevisionRounds": 2,
+    "formRetentionMonths": 24,
+    "minimumAge": 13,
+    "policiesEffectiveDate": "2026-10-06"
+  }
+}

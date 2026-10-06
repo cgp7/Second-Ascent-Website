@@ -1,0 +1,4 @@
+{
+  "_readme": "Upcoming markets and pop-ups. Dates are YYYY-MM-DD. Past dates move to 'Recent stops' automatically at build time. status: 'confirmed' or 'tentative'. Only list events you have actually booked.",
+  "events": []
+}

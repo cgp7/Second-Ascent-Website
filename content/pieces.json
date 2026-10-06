@@ -1,0 +1,54 @@
+{
+  "_readme": "One entry per piece, in lookbook order. status: 'preview' (no price, 'Ask about this piece'), 'available' (shows price and sizes), 'sold' (moves to the Archive). Set placeholder:false only when the photo shows the real piece. Never write a fiber, origin, or year you have not checked on the garment's label.",
+  "drop": "Drop 01",
+  "pieces": [
+    {
+      "id": "piece-01",
+      "name": "The Wasatch",
+      "status": "preview",
+      "placeholder": true,
+      "image": "stacked-flannels",
+      "focus": "50% 45%",
+      "alt": "A stack of folded grey and white plaid flannel shirts on a white surface.",
+      "story": "Sample listing. The real piece, its past life, and its measurements arrive with the drop.",
+      "sizes": [],
+      "price": null
+    },
+    {
+      "id": "piece-02",
+      "name": "Red Rock",
+      "status": "preview",
+      "placeholder": true,
+      "image": "buffalo-ladder",
+      "focus": "50% 38%",
+      "alt": "A person in a red and black buffalo-check flannel shirt sitting on a wooden ladder outdoors.",
+      "story": "Sample listing. Photo is a stand-in until the real shirt is shot.",
+      "sizes": [],
+      "price": null
+    },
+    {
+      "id": "piece-03",
+      "name": "Bonneville",
+      "status": "preview",
+      "placeholder": true,
+      "image": "flannel-macro",
+      "focus": "50% 50%",
+      "alt": "Close-up of a grey plaid flannel shirt with a brown button at the placket.",
+      "story": "Sample listing. Every finished piece is one of one, so this frame will name exactly what it was before.",
+      "sizes": [],
+      "price": null
+    },
+    {
+      "id": "piece-04",
+      "name": "Second Wind",
+      "status": "preview",
+      "placeholder": true,
+      "image": "flannel-texture",
+      "focus": "50% 50%",
+      "alt": "Flat close-up of navy plaid flannel woven with red, yellow and green lines.",
+      "story": "Sample listing. Details, sizing and price will be added when the piece is finished.",
+      "sizes": [],
+      "price": null
+    }
+  ]
+}
